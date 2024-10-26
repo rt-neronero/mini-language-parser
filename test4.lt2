@@ -1,0 +1,7 @@
+y : 5
+if y > 10
+    pout(y)
+elif y == 5
+    pout(y)
+else
+    pout(y + y + y)

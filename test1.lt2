@@ -1,0 +1,4 @@
+x : 10
+pout(x)
+pout(x + x)
+pout(x + 5)
